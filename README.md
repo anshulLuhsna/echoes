@@ -24,6 +24,8 @@ Every day should leave at least one small trace:
 - a tweet draft
 - a failure note
 
+See [OPERATING.md](OPERATING.md) for the handwritten-first rules.
+
 ## Structure
 
 ```text
@@ -48,6 +50,8 @@ templates/
 3. Answer one recall question.
 4. Draft one tweet.
 5. Commit the trace.
+
+Before publishing, use [templates/daily-publish-checklist.md](templates/daily-publish-checklist.md).
 
 ## Current Learning Arc
 

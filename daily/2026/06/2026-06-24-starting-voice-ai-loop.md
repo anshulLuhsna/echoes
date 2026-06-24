@@ -17,6 +17,8 @@ I want to become the kind of engineer who can explain audio from first principle
 
 Set up this repo as the public/private proof trail for daily learning notes and tweet drafts.
 
+Added the rule that the notes should stay handwritten first. AI can help review, but it should not invent progress or smooth away the real learning edge.
+
 ## What Confused Me
 
 The big challenge is not finding resources. The challenge is turning learning into a daily habit with evidence.

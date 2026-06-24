@@ -41,6 +41,7 @@ weekly/
   YYYY/
     week-XX.md
 templates/
+scripts/
 ```
 
 ## Daily Flow
@@ -54,6 +55,12 @@ templates/
 Before publishing, use [templates/daily-publish-checklist.md](templates/daily-publish-checklist.md).
 
 For the daily git loop, use [COMMANDS.md](COMMANDS.md).
+
+To create today's note and tweet draft:
+
+```bash
+./scripts/new-day.sh audio-sampling
+```
 
 ## Current Learning Arc
 

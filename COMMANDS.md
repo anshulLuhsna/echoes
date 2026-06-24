@@ -20,7 +20,13 @@ git@github.com-personal:anshulLuhsna/echoes.git
 
 ## Create Today's Files
 
-Adjust the topic slug.
+Preferred:
+
+```bash
+./scripts/new-day.sh audio-sampling
+```
+
+Manual version:
 
 ```bash
 DAY=$(date +%F)
@@ -37,7 +43,7 @@ cp templates/tweet-draft.md "tweets/$YEAR/$MONTH/$DAY.md"
 
 ```bash
 git status --short
-git add daily tweets weekly README.md OPERATING.md COMMANDS.md templates
+git add daily tweets weekly README.md OPERATING.md COMMANDS.md templates scripts
 git commit -m "Add voice AI learning note"
 git push
 ```

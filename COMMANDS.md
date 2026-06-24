@@ -1,6 +1,6 @@
 # daily commands
 
-Run these from `/Users/froncort.ai/Desktop/echoes`.
+Run these from `/Users/froncort.ai/Desktop/voice-ai/echoes`.
 
 ## Check Identity
 

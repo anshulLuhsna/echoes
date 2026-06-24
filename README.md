@@ -53,6 +53,8 @@ templates/
 
 Before publishing, use [templates/daily-publish-checklist.md](templates/daily-publish-checklist.md).
 
+For the daily git loop, use [COMMANDS.md](COMMANDS.md).
+
 ## Current Learning Arc
 
 ```text
